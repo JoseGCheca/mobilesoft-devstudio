@@ -1,5 +1,0 @@
-#summary One-sentence summary of this page.
-
-Documentos relacionados con el proyecto.
-
-Se publican los distintos documentos relacionados con el proyecto.
