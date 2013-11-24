@@ -5,8 +5,7 @@
 En esta sección, publicamos los distintos documentos relacionados con el desarrollo del proyecto para gestionar una biblioteca.
 
 || *Archivo de introducción al proyecto* ||
-||[Enlace al archivo]
-https://drive.google.com/file/d/0B7iWlxlM5NB3VFZYc0s2NVhvc3M/edit?usp=sharing||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3VFZYc0s2NVhvc3M/edit?usp=sharing||
 
 
 -----------------------------------------------------------------
@@ -15,5 +14,4 @@ https://drive.google.com/file/d/0B7iWlxlM5NB3VFZYc0s2NVhvc3M/edit?usp=sharing||
 Documento con los requisitos de usuario que tendrá nuestra aplicación a desarrollar. En el segundo documento, mostramos la trazabilidad de los requisitos en casos de uso.
 
 || *Archivo con los requisitos* ||
-[Enlace al archivo]
-https://drive.google.com/file/d/0B7iWlxlM5NB3N21OdXRuOXlDbms/edit?usp=sharing
+||https://drive.google.com/file/d/0B7iWlxlM5NB3N21OdXRuOXlDbms/edit?usp=sharing||
