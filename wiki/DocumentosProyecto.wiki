@@ -15,3 +15,6 @@ Documento con los requisitos de usuario que tendrá nuestra aplicación a desarr
 
 || *Archivo con los requisitos* ||
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3N21OdXRuOXlDbms/edit?usp=sharing||
+
+|| *Casos de Uso. Trazabilidad* ||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3OC1Qenl2UlBRcWM/edit?usp=sharing||
