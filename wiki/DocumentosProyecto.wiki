@@ -1,8 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
 Documentos relacionados con el proyecto.
 
-
-= Details =
 Se publican los distintos documentos relacionados con el proyecto.
