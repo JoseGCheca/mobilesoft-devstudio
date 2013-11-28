@@ -11,7 +11,7 @@ public class ConverterTest {
 		Converter c=new Converter();
 		double obtenido=c.convert("K", "C", -500);
 		
-		assertTrue(obtenido==Integer.MIN_VALUE);
+		assertTrue("Esperaba -500 y he obtenido "+obtenido,obtenido==Integer.MIN_VALUE);
 	}
 	
 	@Test
@@ -19,7 +19,7 @@ public class ConverterTest {
 		Converter c=new Converter();
 		double obtenido=c.convert("K", "C", 0);
 		
-		assertTrue(obtenido==-273);
+		assertTrue("Esperaba 0 y he obtenido "+obtenido,obtenido==-273);
 	}
 	
 	@Test
@@ -27,7 +27,7 @@ public class ConverterTest {
 		Converter c=new Converter();
 		double obtenido=c.convert("K", "C", -273);
 		
-		assertTrue(obtenido==Integer.MIN_VALUE);
+		assertTrue("Esperaba -273 y he obtenido "+obtenido,obtenido==Integer.MIN_VALUE);
 	}
 	
 	
@@ -36,7 +36,7 @@ public class ConverterTest {
 		Converter c=new Converter();
 		double obtenido=c.convert("K", "C", 500);
 		
-		assertTrue(obtenido==217);
+		assertTrue("Esperaba 500 y he obtenido "+obtenido,obtenido==217);
 	}
 
 }
