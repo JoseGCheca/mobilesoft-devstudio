@@ -1,0 +1,32 @@
+=Actas de reunión=
+
+En esta sección se podrán consultar las actas de reuniones que hemos mantenido para llevar a cabo el desarrollo del proyecto.
+
+--------------------------------------------------------------------------
+
+|| *Acta 1* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 2* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 3* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 4* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 5* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 6* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 7* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 8* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
+
+|| *Acta 9* ||
+||http://code.google.com/p/mobilesoft-devstudio/wiki/DocumentosProyecto||
