@@ -23,3 +23,6 @@ Documento con los requisitos de usuario que tendrá nuestra aplicación a desarr
 
 || *Casos de Uso. Trazabilidad* ||
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3OC1Qenl2UlBRcWM/edit?usp=sharing||
+
+|| *Comportamiento de Casos de Uso* ||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3M2VIUjBJTGpYbW8/edit?usp=sharing||
