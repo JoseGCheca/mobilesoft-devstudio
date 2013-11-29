@@ -1,4 +1,4 @@
-=Actas de reunión=
+=Calidad=
 
 En esta sección se puede la evaluación de calidad de los procesos instanciados en nuestra empresa del modelo de referencia ISO 12207
 
