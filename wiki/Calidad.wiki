@@ -4,11 +4,11 @@ En esta sección se puede la evaluación de calidad de los procesos instanciados
 
 --------------------------------------------------------------------------
 
-|| *Filosofía de calidad del producto* ||
+|| *Calidad del producto: Filosofía de calidad del producto* ||
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3ZkJfUnlYcU9TNnM/edit?usp=sharing||
 
-|| *Evaluación de la calidad* ||
+|| *Calidad del producto: Evaluación de la calidad* ||
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3bzdWYjRrZzZxMEE/edit?usp=sharing||
 
-|| *Mejoras* ||
+|| *Calidad de los Procesos Software: Mejoras* ||
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3Ul92ejdjdjhLNE0/edit?usp=sharing||
