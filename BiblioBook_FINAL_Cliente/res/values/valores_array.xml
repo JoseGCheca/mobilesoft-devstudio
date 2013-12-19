@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valores_array">
+        <item>Calle</item>
+        <item>Avenida</item>
+        <item>Callejón</item>
+        <item>Plaza</item>
+        <item>Sendero</item>
+        <item>Apeadero</item>
+        <item>Puente</item>
+        <item>Homeless</item>
+    </string-array>
+</resources>
