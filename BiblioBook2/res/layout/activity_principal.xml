@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/principal_rl01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Principal" >
+
+    <Button
+        android:id="@+id/btnPrestamos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:drawableTop="@android:drawable/ic_menu_agenda"
+        android:text="Mis préstamos" />
+
+    <Button
+        android:id="@+id/btnConsultar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:drawableTop="@android:drawable/ic_menu_search"
+        android:text="Consultar libro" />
+     
+    <Button
+        android:id="@+id/btnDatos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPrestamos"
+        android:layout_below="@+id/btnPrestamos"
+        android:drawableTop="@android:drawable/ic_menu_view"
+        android:text="Mis datos personales" />
+
+    <Button
+        android:id="@+id/btnModificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPrestamos"
+        android:layout_below="@+id/btnPrestamos"
+        android:layout_marginTop="70dp"
+        android:drawableTop="@android:drawable/ic_menu_edit"
+        android:text="Modificar mis datos" />
+
+</RelativeLayout>
