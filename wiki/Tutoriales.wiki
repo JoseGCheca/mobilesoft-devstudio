@@ -5,4 +5,4 @@ En esta sección se podrán consultar los distintos tutoriales disponibles.
 --------------------------------------------------------------------------
 
 || *Tutorial SVN* ||
-||https://drive.google.com/file/d/0B7iWlxlM5NB3TUNNajlMLW94bG8/edit?usp=sharing||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3WEhqXzJPM01IN2s/edit?usp=sharing||
