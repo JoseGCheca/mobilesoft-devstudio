@@ -1,7 +1,6 @@
 package org.Iteracion4;
 
 import static org.junit.Assert.*;
-
 import java.sql.SQLException;
 
 import org.Iteracion4.GestionServidor;
@@ -32,4 +31,22 @@ public class PrestamosTests {
 		
 		assertTrue(r==true);
 	}
+	
+	public void testSolicitarUser() throws SQLException, Exception { /** consigue acceder a la aplicacion***/
+		Usuario u=new Usuario();
+		
+		u.leerUsuario("222222-y");
+		
+		Libro l=new Libro();
+		l.setSignatura("aaa-342-e");
+		u.anadirPrestamo(l);
+		
+		Prestamo prest=u.buscarPrestamo(l); //se vuelve a buscar
+		
+		assertTrue(prest.getUsuario().getDNI().equals("222222-y"));
+	}
+	
+	
+	
+	
 }
