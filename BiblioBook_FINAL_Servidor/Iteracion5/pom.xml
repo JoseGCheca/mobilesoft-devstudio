@@ -5,12 +5,12 @@
   <parent>
     <groupId>mobilesoft</groupId>
     <artifactId>BiblioBook</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1</version>
   </parent>
   <groupId>mobilesoft</groupId>
-  <artifactId>Iteracion5</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>Iteracion5</name>
+  <artifactId>Iteracion7</artifactId>
+  <version>1.4.0</version>
+  <name>Iteracion7</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
