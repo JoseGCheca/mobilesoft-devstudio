@@ -1,2 +1,10 @@
+= Introducción. PUD =
+
+En esta sección,se realiza una introducción a los problemas notificados y se lleva a cabo el mantenimiento mediante el Proceso Unificado de Desarrollo; haciéndose también una estimación en horas.
+
+|| *Introducción. PUD* ||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3UGUxVE9yYjg2TzA/edit?usp=sharing||
+
+-----------------------------------------------------------------
 || Gestión de Mantenimiento ||
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3MzFjOUpHNzVKRFE/edit?usp=sharing||
