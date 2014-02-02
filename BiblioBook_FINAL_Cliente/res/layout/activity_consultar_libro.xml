@@ -3,22 +3,21 @@
     android:id="@+id/Libro_LL_01"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="#EEEEEE"
-    >
+    android:orientation="vertical" >
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="56dp"
-        android:background="#EEEEEE">
+        android:layout_height="wrap_content"
+        android:background="#EEEEEE" >
 
         <EditText
             android:id="@+id/editText1"
-            android:layout_width="199dp"
+            android:layout_width="178dp"
             android:layout_height="match_parent"
-            android:inputType="text"
+            android:ems="10"
             android:hint="Nombre del libro"
-            android:ems="10" >
+            android:inputType="text" >
 
             <requestFocus />
         </EditText>
@@ -26,16 +25,24 @@
         <Button
             android:id="@+id/Libro_btnBuscar"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableTop="@android:drawable/ic_menu_search"
             android:text="Buscar" />
-
     </LinearLayout>
 
     <ListView
         android:id="@+id/Libro_ListView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="304dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="6.45"
         android:longClickable="true" >
     </ListView>
 
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.24"
+        android:src="@drawable/ic_launcher" />
 </LinearLayout>

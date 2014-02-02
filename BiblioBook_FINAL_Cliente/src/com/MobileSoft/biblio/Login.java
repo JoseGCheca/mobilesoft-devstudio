@@ -112,9 +112,10 @@ public class Login extends Activity {
 			Comunicador comunicador  = new Comunicador();
 			//publishProgress();
 			String a = null;
+			
 			String cadena="autenticar*:"+params[0];
 			
-			a=comunicador.Conectar(cadena);
+			a=comunicador.Conectar(cifrarMensaje(cadena,5));
 			if(isCancelled()){
 				
 			}
@@ -172,6 +173,36 @@ public class Login extends Activity {
 	@Override
 	public void onDestroy() {
 		super.onDestroy();  // Always call the superclass method first
+	}
+	
+	
+	public static String cifrarMensaje(String msg,int k){
+		char c []=new char[msg.length()];
+		String msgC="";
+		c=msg.toCharArray();
+
+		for(int i=0;i<c.length;i++){
+			c[i]-=k;
+		}
+		msgC=String.valueOf(c);
+		return msgC;
+	}
+
+
+	//descifrar los mensajes
+
+
+
+	public static String descifrarMensaje(String msg,int k){
+		char c []=new char[msg.length()];
+		String msgC="";
+		c=msg.toCharArray();
+
+		for(int i=0;i<c.length;i++){
+			c[i]+=k;
+		}
+		msgC=String.valueOf(c);
+		return msgC;
 	}
 }
 

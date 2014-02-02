@@ -41,11 +41,11 @@ public class Mis_prestamos extends Activity {
 		LL01.setBackgroundColor(Color.LTGRAY);
 
 		final ListView listview = (ListView) findViewById(R.id.ListView1);
-		String[] values = new String[] { "Android", "iPhone", "WindowsMobile",
-				"Blackberry", "WebOS", "Ubuntu", "Windows7", "Max OS X",
-				"Linux", "OS/2", "Ubuntu", "Windows7", "Max OS X", "Linux",
-				"OS/2", "Ubuntu", "Windows7", "Max OS X", "Linux", "OS/2",
-				"Android", "iPhone", "WindowsMobile" };
+		String[] values = new String[] { "Física", "Matemáticas aplicadas", "Redes",
+				"Metodología", "Sistemas Software", "Estadística", "Windows", "Sistemas operativos",
+				"Lógica", "Álgebra", "Harry Potter", "50 Sombras de grey", "50 Sombras mas oscuras", "50 Sombras liberadas",
+				"Juego de Tronos", "El Señor de los Anillos", "Daniel el travieso", "Alex, the fith element", "Jose Carlos pitufando", "Jose, the Panda Bear",
+				"Android, Programa", "Eduardo el profezor"};
 
 		final ArrayList<String> list = new ArrayList<String>();
 		for (int i = 0; i < values.length; ++i) {

@@ -3,14 +3,22 @@
     android:id="@+id/Mis_prestamosLL_01"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" 
-    >
+    android:orientation="vertical" >
 
     <ListView
         android:id="@+id/ListView1"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:longClickable="true"
-        >
+        android:layout_height="388dp"
+        android:layout_weight="9.40"
+        android:longClickable="true" >
+
     </ListView>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.61"
+        android:src="@drawable/ic_launcher" />
+
 </LinearLayout>
