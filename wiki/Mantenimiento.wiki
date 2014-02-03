@@ -19,10 +19,10 @@ En este apartado se trata el plan de mantenimiento en nuestra empresa y se ident
 Se han documentado las peticiones de mantenimiento tanto del issue 1 y 2
 
 || Issue 1 ||
-||Falta enlace||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3V0V0NEt0d2c1anM/edit?usp=sharing||
 
 || Issue 3 ||
-||Falta el enlace||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3NFdGQ1J0SDRGcWM/edit?usp=sharing||
 
 -----------------------------------------------------------------
 = Implementación y pruebas =
