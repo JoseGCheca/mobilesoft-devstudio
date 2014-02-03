@@ -30,4 +30,4 @@ En esta sección hay un enlace al repositorio donde está el código fuente con 
 El coste de este proyecto de mantenimiento se ve reflejado en el siguiente pdf. Los recursos tanto hardware como software de la empresa, se encuentran también en el mismo documento.
 
 || Costes y recursos ||
-||https://drive.google.com/file/d/0B-4ebzNAdZNwdmVxUThhMFh5SHM/edit?usp=sharing||
+||https://drive.google.com/file/d/0B-4ebzNAdZNwS1pPQzBoVnlwaUU/edit?usp=sharing||
