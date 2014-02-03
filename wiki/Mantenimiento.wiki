@@ -6,6 +6,17 @@ En esta sección,se realiza una introducción a los problemas notificados y se l
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3UGUxVE9yYjg2TzA/edit?usp=sharing||
 
 -----------------------------------------------------------------
+= Documentación de los cambios =
+
+Se han documentado las peticiones de mantenimiento tanto del issue 1 y 2
+
+|| Issue 1 ||
+||Falta enlace||
+
+|| Issue 2 ||
+||Falta el enlace||
+
+-----------------------------------------------------------------
 = Implementación y pruebas =
 
 En esta sección hay un enlace al repositorio donde está el código fuente con los cambios y los casos de prueba.
