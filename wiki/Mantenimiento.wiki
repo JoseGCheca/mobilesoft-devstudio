@@ -6,6 +6,14 @@ En esta sección,se realiza una introducción a los problemas notificados y se l
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3UGUxVE9yYjg2TzA/edit?usp=sharing||
 
 -----------------------------------------------------------------
+= Plan de mantenimiento =
+
+En este apartado se trata el plan de mantenimiento en nuestra empresa y se identifican a los responsables.
+
+|| Plan de mantenimiento ||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3VU9kM0xMcGxhYk0/edit?usp=sharing||
+
+-----------------------------------------------------------------
 = Documentación de los cambios =
 
 Se han documentado las peticiones de mantenimiento tanto del issue 1 y 2
