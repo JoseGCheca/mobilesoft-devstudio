@@ -11,7 +11,7 @@ En esta sección,se realiza una introducción a los problemas notificados y se l
 En este apartado se trata el plan de mantenimiento en nuestra empresa y se identifican a los responsables.
 
 || Plan de mantenimiento ||
-||https://drive.google.com/file/d/0B7iWlxlM5NB3VU9kM0xMcGxhYk0/edit?usp=sharing||
+||https://drive.google.com/file/d/0B7iWlxlM5NB3RVhiTkdEVXVRTTg/edit?usp=sharing||
 
 -----------------------------------------------------------------
 = Documentación de los cambios =
