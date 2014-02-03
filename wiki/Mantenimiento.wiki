@@ -12,3 +12,11 @@ En esta sección hay un enlace al repositorio donde está el código fuente con 
 
 || Código Fuente ||
 ||http://code.google.com/p/mobilesoft-devstudio/source/browse/#svn%2FIteracion7Mantenimiento%253Fstate%253Dclosed||
+
+-----------------------------------------------------------------
+= Costes. Recursos utilizados =
+
+El coste de este proyecto de mantenimiento se ve reflejado en el siguiente pdf. Los recursos tanto hardware como software de la empresa, se encuentran también en el mismo documento.
+
+|| Costes y recursos ||
+||https://drive.google.com/file/d/0B-4ebzNAdZNwdmVxUThhMFh5SHM/edit?usp=sharing||
