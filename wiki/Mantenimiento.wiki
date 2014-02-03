@@ -6,5 +6,9 @@ En esta sección,se realiza una introducción a los problemas notificados y se l
 ||https://drive.google.com/file/d/0B7iWlxlM5NB3UGUxVE9yYjg2TzA/edit?usp=sharing||
 
 -----------------------------------------------------------------
-|| Gestión de Mantenimiento ||
-||https://drive.google.com/file/d/0B7iWlxlM5NB3MzFjOUpHNzVKRFE/edit?usp=sharing||
+= Implementación y pruebas =
+
+En esta sección hay un enlace al repositorio donde está el código fuente con los cambios y los casos de prueba.
+
+|| Código Fuente ||
+||http://code.google.com/p/mobilesoft-devstudio/source/browse/#svn%2FIteracion7Mantenimiento%253Fstate%253Dclosed||
