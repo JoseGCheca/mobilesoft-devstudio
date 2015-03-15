@@ -1,0 +1,55 @@
+# Introducción. PUD #
+
+En esta sección,se realiza una introducción a los problemas notificados y se lleva a cabo el mantenimiento mediante el Proceso Unificado de Desarrollo; haciéndose también una estimación en horas.
+
+| **Introducción. PUD** |
+|:-----------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3UGUxVE9yYjg2TzA/edit?usp=sharing|
+
+
+---
+
+# Plan de mantenimiento #
+
+En este apartado se trata el plan de mantenimiento en nuestra empresa y se identifican a los responsables.
+
+| Plan de mantenimiento |
+|:----------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3RVhiTkdEVXVRTTg/edit?usp=sharing|
+
+
+---
+
+# Documentación de los cambios #
+
+Se han documentado las peticiones de mantenimiento tanto del [issue 1](https://code.google.com/p/mobilesoft-devstudio/issues/detail?id=1) y 2
+
+| [Issue 1](https://code.google.com/p/mobilesoft-devstudio/issues/detail?id=1) |
+|:-----------------------------------------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3V0V0NEt0d2c1anM/edit?usp=sharing|
+
+| [Issue 3](https://code.google.com/p/mobilesoft-devstudio/issues/detail?id=3) |
+|:-----------------------------------------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3NFdGQ1J0SDRGcWM/edit?usp=sharing|
+
+
+---
+
+# Implementación y pruebas #
+
+En esta sección hay un enlace al repositorio donde está el código fuente con los cambios y los casos de prueba.
+
+| Código Fuente |
+|:---------------|
+|http://code.google.com/p/mobilesoft-devstudio/source/browse/#svn%2FIteracion7Mantenimiento%253Fstate%253Dclosed|
+
+
+---
+
+# Costes. Recursos utilizados #
+
+El coste de este proyecto de mantenimiento se ve reflejado en el siguiente pdf. Los recursos tanto hardware como software de la empresa, se encuentran también en el mismo documento.
+
+| Costes y recursos |
+|:------------------|
+|https://drive.google.com/file/d/0B-4ebzNAdZNwS1pPQzBoVnlwaUU/edit?usp=sharing|

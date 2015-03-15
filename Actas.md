@@ -1,0 +1,47 @@
+# Actas de reunión #
+
+En esta sección se podrán consultar las actas de reuniones que hemos mantenido para llevar a cabo el desarrollo del proyecto.
+
+
+---
+
+
+| **Acta 1** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3LWU4Sk5TWmc2dEE/edit?usp=sharing|
+
+| **Acta 2** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3VlFqZTlTcVRSQzQ/edit?usp=sharing|
+
+| **Acta 3** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3dUZEV3RxSnhwOE0/edit?usp=sharing|
+
+| **Acta 4** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3aWYwclN0NmZrRUU/edit?usp=sharing|
+
+| **Acta 5** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3dVNCTXU0eVg3WEU/edit?usp=sharing|
+
+| **Acta 6** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3RV9MbV9jWkVhWEE/edit?usp=sharing|
+
+| **Acta 7** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3S2hvRnhxVEJ4UWc/edit?usp=sharing|
+
+| **Acta 8** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3UnlOVld3S0NpS1U/edit?usp=sharing|
+
+| **Acta 9** |
+|:-----------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3NWJuNHEzUUxSaDA/edit?usp=sharing|
+
+| **Acta 10** |
+|:------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3MC1QbGw0d0I4ZzQ/edit?usp=sharing|

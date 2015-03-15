@@ -1,0 +1,39 @@
+# Introducción #
+
+En esta sección, publicamos los distintos documentos relacionados con el desarrollo del proyecto para gestionar una biblioteca.
+
+| **Archivo de introducción al proyecto** |
+|:-----------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3VFZYc0s2NVhvc3M/edit?usp=sharing|
+
+
+---
+
+# Planificación Proyecto. PUD #
+
+| **Priorización de los casos de uso. Iteraciones** |
+|:---------------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3VXRXQVlDcWhVVGM/edit?usp=sharing|
+
+| **Proceso unificado de desarrollo. Costes** |
+|:--------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3dWp6OHFETUQ0NWM/edit?usp=sharing|
+
+
+---
+
+# Requisitos #
+
+Documento con los requisitos de usuario que tendrá nuestra aplicación a desarrollar. En el segundo documento, mostramos la trazabilidad de los requisitos en casos de uso.
+
+| **Archivo con los requisitos** |
+|:-------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3N21OdXRuOXlDbms/edit?usp=sharing|
+
+| **Casos de Uso. Trazabilidad** |
+|:-------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3OC1Qenl2UlBRcWM/edit?usp=sharing|
+
+| **Comportamiento de Casos de Uso** |
+|:-----------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3M2VIUjBJTGpYbW8/edit?usp=sharing|

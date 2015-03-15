@@ -1,0 +1,19 @@
+# Calidad #
+
+En esta sección se puede la evaluación de calidad de los procesos instanciados en nuestra empresa del modelo de referencia ISO 12207
+
+
+---
+
+
+| **Calidad del producto: Filosofía de calidad del producto** |
+|:-------------------------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3ZkJfUnlYcU9TNnM/edit?usp=sharing|
+
+| **Calidad de los Procesos Software: Evaluación de la calidad** |
+|:----------------------------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3bzdWYjRrZzZxMEE/edit?usp=sharing|
+
+| **Calidad de los Procesos Software: Mejoras** |
+|:----------------------------------------------|
+|https://drive.google.com/file/d/0B7iWlxlM5NB3Ul92ejdjdjhLNE0/edit?usp=sharing|
